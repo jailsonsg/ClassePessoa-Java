@@ -1,4 +1,4 @@
-package Membros;
+package membros;
 
 public class DataNascimento {
 	static int dia;
